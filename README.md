@@ -7,11 +7,13 @@ This project involved an in-depth analysis of global sales data to provide actio
 ## Project Links :link:
 - [GitHub Repository](#)
 
-## Skills :hammer_and_wrench:
-- Python
-- Data Analysis
-- IBM Cognos Analytics
-- Data Visualization
+## Technologies Used :computer:
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Data Analysis](https://img.shields.io/badge/Data_Analysis-4CAF50?style=for-the-badge&logo=Google&logoColor=white)](https://en.wikipedia.org/wiki/Data_analysis)
+[![IBM Cognos Analytics](https://img.shields.io/badge/IBM_Cognos_Analytics-052FAD?style=for-the-badge&logo=IBM&logoColor=white)](https://www.ibm.com/products/cognos-analytics)
+[![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF4081?style=for-the-badge&logo=Tableau&logoColor=white)](https://www.tableau.com/)
+
 
 ## About this Project :memo:
 
